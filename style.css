@@ -61,3 +61,6 @@ button{
     box-shadow:  -5px -5px 12px #ffff,
                   5px 5px 12px rgba(0, 0, 0, 0.16);
 }
+button:active   {
+    scale: 0.9;
+}
